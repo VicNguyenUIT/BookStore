@@ -1,6 +1,6 @@
 # Library
 # Giới thiệu
-Trước kia khi công nghệ chưa phát triển, chúng ta đều dùng các phương pháp thủ công trong việc quản lý gây ra nhiều phiền toái trong việc lưu trữ sổ sách, việc tính toán , tìm kiếm, ... Để giải quyết vấn đề này chúng ta xây dựng những trang web,phần mềm quản lý để đáp ứng những nhu cầu của người dùng.
+Trước kia khi công nghệ chưa phát triển, chúng ta đều dùng các phương pháp thủ công trong việc quản lý gây ra nhiều phiền toái trong việc lưu trữ sổ sách, việc tính toán , tìm kiếm, ... Để giải quyết vấn đề này chúng ta xây dựng những trang web, phần mềm quản lý để giảm bớt số lượng công việc cần tới con người, đáp ứng những nhu cầu của người dùng.
 # Yêu cầu
 -Phù hợp mục đích của người dùng , phù hợp với trình độ của người dùng,ai cũng có thể dùng được. Đồng thời phải ổn định chắc chắn có khả năng cung cấp thông tin đáp ứng khi cần thiết. Dễ dàng bảo hành, cải tiến , nhanh chóng chỉ ra những lỗi cần điều chỉnh
 
