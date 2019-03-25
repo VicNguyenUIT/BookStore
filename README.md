@@ -34,6 +34,28 @@ Công nghệ: C#, SQL Sever
     
     +Khóa tài khoản người dùng
     
+-Quản lý báo cáo theo tuần
+
+    +Báo cáo tồn sách
+    
+    +Báo cáo công nợ
+    
+    +Tra cứu báo cáo tồn sách
+    
+    +Tra cứu báo cáo công nợ
+    
+-Quản lý báo cáo theo tháng
+
+    +Báo cáo tồn sách
+    
+    +Báo cáo công nợ
+    
+    +Tra cứu báo cáo tồn sách
+    
+    +Tra cứu báo cáo công nợ
+    
 -Đăng nhập hệ thống
 
 -Đăng xuất
+# Thành viên:
+
