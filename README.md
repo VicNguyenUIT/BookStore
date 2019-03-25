@@ -7,6 +7,8 @@ Trước kia khi công nghệ chưa phát triển, chúng ta đều dùng các p
 -Hệ thống phải dễ dàng truy xuất , vận hành , sử dụng
 
 -Giao diện dễ nhìn phù hợp với không gian làm việc, các yêu cầu về kỹ thuật phải xử lý chính xác
+
+-An toàn, bảo mật
 # Tổng quan
 Đồ án môn Nhập môn Công nghệ phần mềm
 
