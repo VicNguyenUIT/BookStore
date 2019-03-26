@@ -64,6 +64,8 @@ Công nghệ: C#, SQL Sever
     
     +Tra cứu báo cáo công nợ
     
+-Xuất báo cáo
+    
 -Đăng nhập hệ thống
 
 -Đăng xuất
