@@ -74,4 +74,4 @@ Công nghệ: C#, SQL Sever
 
 -Nguyễn Văn Thắng- 16521104
 
--Nguyễn Trung Nghĩa- 
+-Nguyễn Trung Nghĩa- 16520812
