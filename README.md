@@ -68,4 +68,10 @@ Công nghệ: C#, SQL Sever
 
 -Đăng xuất
 # Thành viên:
+-Phạm Tấn Khoa- 16520602
 
+-Phạm Đình Anh Vũ- 16521407
+
+-Nguyễn Văn Thắng- 16521104
+
+-Nguyễn Trung Nghĩa- 
