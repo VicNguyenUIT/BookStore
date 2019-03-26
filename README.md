@@ -1,4 +1,4 @@
-# Library
+# Quản Lý Nhà Sách
 # Giới thiệu
 Trước kia khi công nghệ chưa phát triển, chúng ta đều dùng các phương pháp thủ công trong việc quản lý gây ra nhiều phiền toái trong việc lưu trữ sổ sách, việc tính toán , tìm kiếm, ... Để giải quyết vấn đề này chúng ta xây dựng những trang web, phần mềm quản lý để giảm bớt số lượng công việc cần tới con người, đáp ứng những nhu cầu của người dùng.
 # Yêu cầu
