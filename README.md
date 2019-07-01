@@ -24,11 +24,14 @@ Màn hình “Báo cáo tháng”: Gồm 3 màn hình khác:
   * Màn hình “Lập báo cáo tháng”: Thống kê sách mỗi cuối tháng.
     - Nút “Thống kê” để liệt kê các sách và lượng “tồn đầu”, “Lượng bán”, “Lượng nhập” và “Tồn cuối”.
     - Nút “Lưu”, lưu bản báo cáo vừa thống kê vào Database. Lưu ý: Việc này là nhất định phải làm mỗi cuối tháng, nếu không thì tháng đó       sẽ không có báo cáo.
+    - Tính năng “Xuất Excel” chưa hoàn thiện.
   * Màn hình “Báo cáo tồn”: Tìm kiếm báo cáo về sách trong một tháng nào đó (Đã lưu trước đó).
     - Nhập “Tháng” và “Năm” cần tìm báo cáo vào ô.
     - Nút “Tìm”, xuất ra bảng báo cáo của tháng cần tìm (Với điều kiện là đã lưu báo cáo của tháng đó trước đó).
+    - Tính năng “Xuất Excel” chưa hoàn thiện.
   * Màn hình “Báo cáo Công nợ”: 
     - Nút “Tìm”, thống kê các khách hàng và các “số tiền đã ghi nợ”, “số tiền đã trả” và “nợ cuối” của khách hàng.
+    - “Xuất Excel” chưa hoàn thiện.
 
 Màn hình “Quy Định”: Gồm 3 màn hình khác:
   * Màn hình “Nhập sách”: Quy định các yếu tố khi nhập sách.
