@@ -23,10 +23,4 @@ Màn hình “Quy Định”: Gồm 3 màn hình khác:
     - Nếu không sử dụng, số tiền nợ của khách hàng có thể là âm, lúc này nhà sách đang nợ lại khách hàng.
 
 # Thành viên:
--Phạm Tấn Khoa- 16520602
-
--Phạm Đình Anh Vũ- 16521407
-
--Nguyễn Văn Thắng- 16521104
-
--Nguyễn Trung Nghĩa- 16520812
+- Nguyễn Trung Nghĩa- 16520812
