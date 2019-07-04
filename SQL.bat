@@ -1,0 +1,1 @@
+sqlcmd -S main\mssqlserver -i C:\Users\Khoa\Desktop
