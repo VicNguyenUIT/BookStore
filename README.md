@@ -1,6 +1,6 @@
 
-Chức năng
-    1.Màn hình “Hóa đơn”: 
+# Chức năng
+    1. Màn hình “Hóa đơn”: 
 -Đầu tiên Nhân viên nhập Số CMND khách hàng (Trước đó đã tạo thông tin Khách hàng.
 -Tìm và thêm sách Khách hàng yêu cầu bằng cách nhập “Mã sách” hoặc “Tên sách” (Tên sách phải chính xác), số lượng Khách hàng yêu cầu.
 -Ấn nút “Thêm” để thêm sách vào hóa đơn.
@@ -18,6 +18,6 @@ Sau khi thanh toán thì lưu hóa đơn vào Database và reset các thông tin
 -Chọn sách bất kỳ rồi ấn nút “Xóa” để xóa sách khỏi Database. Lưu ý là sách đã có trong hóa đơn hoặc báo cáo thì sẽ không xóa được!
 
 
-Thành viên:
+#Thành viên:
 
 -Phạm Đình Anh Vũ- 16521407
