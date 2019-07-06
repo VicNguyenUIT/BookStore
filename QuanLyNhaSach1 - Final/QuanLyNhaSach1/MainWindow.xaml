@@ -1643,7 +1643,7 @@
                                             DisplayMemberBinding="{Binding Sach.TheLoai}"
                                             Header="Thể loại" /><GridViewColumn Width="100"
                                             DisplayMemberBinding="{Binding Sach.TacGia}"
-                                            Header="Thể loại" />
+                                            Header="Tác giả" />
                                                 <GridViewColumn Width="100"
                                             DisplayMemberBinding="{Binding Soluong}"
                                             Header="Số lượng" />

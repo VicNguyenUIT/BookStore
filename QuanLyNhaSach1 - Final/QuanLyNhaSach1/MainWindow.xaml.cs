@@ -552,8 +552,12 @@ namespace QuanLyNhaSach1
         private void Xoa_Button_Bill_Click(object sender, RoutedEventArgs e)
         {
             if (Listview_Bill.SelectedItems.Count > 0)
-                ListHoaDon.Remove((SachTon)Listview_Bill.SelectedItems[0]);
+            {
 
+                _tongtien_hoadon -= ((SachTon)Listview_Bill.SelectedItems[0]).Tong;
+                Tongtien_Hoadon_Textbox.Text = _tongtien_hoadon.ToString();
+                ListHoaDon.Remove((SachTon)Listview_Bill.SelectedItems[0]);
+            }
         }
 
         private void Tensach_Bill_Texbox_GotFocus(object sender, RoutedEventArgs e)
